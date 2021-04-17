@@ -8,7 +8,8 @@ Building requires .NET 5.0 along with having the clang compiler installed to use
 
 ## Usage
 The compiler utilizes LLVM to emit LLVM bitcode, which is then to be compiled with clang.
-```Usage: BFCompiler [Input] [Flags]
+```
+Usage: BFCompiler [Input] [Flags]
 	-m Set program memory size (8192 bytes by default).
 	-o Set output filename.
 	c2021 Gota7
