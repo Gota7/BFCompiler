@@ -4,6 +4,9 @@ using Antlr4.Runtime;
 using Antlr4.Runtime.Tree;
 using LLVMSharp;
 
+// Test scripts can be found here:
+// https://github.com/rdebath/Brainfuck/tree/master/testing
+
 /// <summary>
 /// For storing information about visiting a node.
 /// </summary>
